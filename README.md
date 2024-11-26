@@ -95,7 +95,7 @@ Traditional fishermen and sailors often face unexpected dangers at sea due to un
    ```
 
 5. Results and logs will be saved in the `output/` directory.
-
+![Result](https://github.com/jramadhannw/Capstone_Analisis-Berlayar_Main/blob/main/output/Screenshot%202024-11-26%20224805.png)
 ---
 
 ## Project Structure
