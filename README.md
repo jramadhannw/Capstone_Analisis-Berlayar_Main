@@ -52,7 +52,7 @@ Data from the sensors and image processing is used to provide recommendations to
    ```
 3. Run the system:
    ```bash
-   python main.py
+   python mwt.py
    ```
 
 ## Project Structure
@@ -63,5 +63,5 @@ Capstone_Analisis-Berlayar_Main
 ├── docs                # Project documentation
 ├── tests               # System testing
 ├── README.md           # Main project documentation
-└── main.py             # Main file to run the system
+└── mwt.py             # Main file to run the system
 ```
