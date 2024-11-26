@@ -55,13 +55,11 @@ Data from the sensors and image processing is used to provide recommendations to
    python mwt.py
    ```
 
-## Project Structure
-```
-Capstone_Analisis-Berlayar_Main
-├── data                # Data and processed images
-├── scripts             # Scripts for data and image processing
-├── docs                # Project documentation
-├── tests               # System testing
-├── README.md           # Main project documentation
-└── mwt.py             # Main file to run the system
-```
+##Capstone_Analisis-Berlayar_Main/
+├── 3D Model/           # 3D model design files
+├── camera/             # Camera-related scripts and configurations
+├── output/             # Analysis results and logs
+├── sensor/             # Sensor code and configurations
+├── README.md           # Project documentation
+├── requirements.txt    # Python dependencies
+
