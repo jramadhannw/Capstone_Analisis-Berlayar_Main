@@ -1,5 +1,3 @@
-Here's a revised and polished version of your README:
-
 ---
 
 # Capstone Project: Feasibility Analysis for Sailing Using IoT and OpenCV
@@ -7,7 +5,7 @@ Here's a revised and polished version of your README:
 This project analyzes the feasibility of sailing in coastal waters by integrating IoT technology and image processing with OpenCV. It leverages environmental sensors and an IP camera to automatically detect and measure wave parameters, providing reliable information to fishermen and sailors about safe sailing conditions.
 
 ---
-
+![3D Model Overview](https://github.com/jramadhannw/Capstone_Analisis-Berlayar_Main/blob/main/output/3dmodel.png)
 ## Table of Contents
 - [Background](#background)
 - [Project Objectives](#project-objectives)
