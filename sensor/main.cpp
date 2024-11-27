@@ -208,9 +208,15 @@ void setup() {
 
 void loop() {
     updateAnemometer(Telemetry);
-    // updateBME(Telemtry);
-    // updateUS(Telemtry);
+    // updateBME(Telemetry);
+    // updateUS(Telemetry);
     updateWD(Telemetry);
-    sendData(Telemetry, "Jawa");
+
+    String feasibility = analyzeFeasibility(Telemetry);
+    Serial.println("Analisis Kelayakan Berlayar: " + feasibility);
+
+    //sendData(Telemetry, "Jawa");
     delay(1000);
+}
+
 }
